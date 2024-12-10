@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Angular - Frameworks - TioTropi Dev</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="../imagenes/logo.png" alt="Logo del Blog" class="logo">
+        <h1>TioTropi Dev</h1>
+        <p>Explorando el mundo del código</p>
+    </header>
+
+    <nav class="navbar">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+        <ul class="nav-menu">
+            <li><a href="../index.html">Inicio</a></li>
+            <li class="has-submenu">
+                <a href="#">Lenguajes</a>
+                <ul class="submenu">
+                    <li><a href="../lenguajes/html.html">HTML</a></li>
+                    <li><a href="../lenguajes/css.html">CSS</a></li>
+                    <li><a href="../lenguajes/javascript.html">JavaScript</a></li>
+                    <li><a href="../lenguajes/python.html">Python</a></li>
+                </ul>
+            </li>
+            <li class="has-submenu">
+                <a href="#">Frameworks</a>
+                <ul class="submenu">
+                    <li><a href="react.html">React</a></li>
+                    <li><a href="vue.html">Vue</a></li>
+                    <li><a href="angular.html" class="active">Angular</a></li>
+                </ul>
+            </li>
+            <li><a href="../recursos.html">Recursos</a></li>
+            <li><a href="../sobre_mi.html">Sobre Mí</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="main-content">
+            <h2>Angular</h2>
+            <p>
+                Angular es un framework de JavaScript desarrollado por Google que se utiliza para construir aplicaciones
+                web dinámicas y de alto rendimiento. Es conocido por su arquitectura basada en componentes y su robustez.
+            </p>
+            <h3>Características Principales</h3>
+            <ul>
+                <li>Arquitectura basada en componentes para un desarrollo modular.</li>
+                <li>Uso de TypeScript, lo que añade tipado estático y herramientas avanzadas.</li>
+                <li>Enlace de datos bidireccional (two-way data binding) para una sincronización más eficiente.</li>
+            </ul>
+            <h3>Recursos para Aprender Angular</h3>
+            <ul>
+                <li><a href="https://angular.io/" target="_blank">Documentación Oficial de Angular</a></li>
+                <li><a href="https://www.udemy.com/course/the-complete-guide-to-angular-2/" target="_blank">The Complete Guide to Angular (Udemy)</a></li>
+                <li><a href="https://angular-university.io/" target="_blank">Angular University</a> - Cursos especializados en Angular.</li>
+                <li><a href="https://egghead.io/browse/frameworks/angular" target="_blank">Cursos de Angular en Egghead.io</a></li>
+            </ul>
+            <h3>Proyectos para Practicar</h3>
+            <ul>
+                <li>Un gestor de contactos con funcionalidad de búsqueda y edición.</li>
+                <li>Un dashboard administrativo con gráficas y estadísticas.</li>
+                <li>Una aplicación de comercio electrónico con carrito de compras y pago.</li>
+            </ul>
+        </section>
+
+        <aside>
+            <section class="sidebar-content">
+                <h3>Curiosidades de Programación</h3>
+                <p>
+                    ¿Sabías que Angular fue originalmente conocido como "AngularJS" y lanzado en 2010?
+                    En 2016, se lanzó Angular 2, una reescritura completa del framework.
+                </p>
+            </section>
+        </aside>
+    </main>
+</body>
+</html>

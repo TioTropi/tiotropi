@@ -57,9 +57,9 @@ Si encuentras algo interesante o tienes ideas para mejorar este proyecto, siént
 ## Contacto
 Estoy abierto a nuevas oportunidades de colaboración y a recibir feedback sobre este proyecto. Puedes contactarme a través de:
 
-- **Email**: tiotropi@gmail.com
+- **Email**: [tuemail@example.com](mailto:tuemail@example.com)
 - **GitHub**: [github.com/TioTropi](https://github.com/TioTropi)
-- **LinkedIn**: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/tiotropi/)
+- **LinkedIn**: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
 
 ---
 
@@ -70,3 +70,4 @@ Este proyecto está bajo la Licencia MIT. Siéntete libre de usar, modificar y c
 
 ### ¡Gracias por visitar mi proyecto!
 Explora, aprende y colabora. Este espacio está diseñado para crecer junto con la comunidad tecnológica.
+

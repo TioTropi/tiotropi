@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue - Frameworks - TioTropi Dev</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="../imagenes/logo.png" alt="Logo del Blog" class="logo">
+        <h1>TioTropi Dev</h1>
+        <p>Explorando el mundo del código</p>
+    </header>
+
+    <nav class="navbar">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+        <ul class="nav-menu">
+            <li><a href="../index.html">Inicio</a></li>
+            <li class="has-submenu">
+                <a href="#">Lenguajes</a>
+                <ul class="submenu">
+                    <li><a href="../lenguajes/html.html">HTML</a></li>
+                    <li><a href="../lenguajes/css.html">CSS</a></li>
+                    <li><a href="../lenguajes/javascript.html">JavaScript</a></li>
+                    <li><a href="../lenguajes/python.html">Python</a></li>
+                </ul>
+            </li>
+            <li class="has-submenu">
+                <a href="#">Frameworks</a>
+                <ul class="submenu">
+                    <li><a href="react.html">React</a></li>
+                    <li><a href="vue.html" class="active">Vue</a></li>
+                    <li><a href="angular.html">Angular</a></li>
+                </ul>
+            </li>
+            <li><a href="../recursos.html">Recursos</a></li>
+            <li><a href="../sobre_mi.html">Sobre Mí</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="main-content">
+            <h2>Vue</h2>
+            <p>
+                Vue es un framework progresivo de JavaScript diseñado para construir interfaces de usuario
+                interactivas y aplicaciones web. Es conocido por su simplicidad y flexibilidad.
+            </p>
+            <h3>Características Principales</h3>
+            <ul>
+                <li>Enlace bidireccional de datos (two-way data binding) para una sincronización más sencilla.</li>
+                <li>Componentes reutilizables que facilitan el desarrollo modular.</li>
+                <li>Facilidad de integración con otros proyectos existentes.</li>
+            </ul>
+            <h3>Recursos para Aprender Vue</h3>
+            <ul>
+                <li><a href="https://vuejs.org/" target="_blank">Documentación Oficial de Vue</a></li>
+                <li><a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/" target="_blank">Vue - The Complete Guide (Udemy)</a></li>
+                <li><a href="https://vueschool.io/" target="_blank">Vue School</a> - Plataforma educativa especializada en Vue.</li>
+                <li><a href="https://laracasts.com/series/learn-vue-3-step-by-step" target="_blank">Learn Vue 3 (Laracasts)</a></li>
+            </ul>
+            <h3>Proyectos para Practicar</h3>
+            <ul>
+                <li>Un tablero de tareas interactivo tipo Kanban.</li>
+                <li>Una aplicación de recetas con filtrado y categorías dinámicas.</li>
+                <li>Un sistema de chat en tiempo real usando Vue y Firebase.</li>
+            </ul>
+        </section>
+
+        <aside>
+            <section class="sidebar-content">
+                <h3>Curiosidades de Programación</h3>
+                <p>
+                    ¿Sabías que Vue fue creado por Evan You en 2014 mientras trabajaba en Google?
+                    Su objetivo era tomar lo mejor de Angular y hacerlo más liviano y fácil de usar.
+                </p>
+            </section>
+        </aside>
+    </main>
+</body>
+</html>

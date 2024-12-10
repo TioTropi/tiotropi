@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React - Frameworks - TioTropi Dev</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="../imagenes/logo.png" alt="Logo del Blog" class="logo">
+        <h1>TioTropi Dev</h1>
+        <p>Explorando el mundo del código</p>
+    </header>
+
+    <nav class="navbar">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+        <ul class="nav-menu">
+            <li><a href="../index.html">Inicio</a></li>
+            <li class="has-submenu">
+                <a href="#">Lenguajes</a>
+                <ul class="submenu">
+                    <li><a href="../lenguajes/html.html">HTML</a></li>
+                    <li><a href="../lenguajes/css.html">CSS</a></li>
+                    <li><a href="../lenguajes/javascript.html">JavaScript</a></li>
+                    <li><a href="../lenguajes/python.html">Python</a></li>
+                </ul>
+            </li>
+            <li class="has-submenu">
+                <a href="#">Frameworks</a>
+                <ul class="submenu">
+                    <li><a href="react.html" class="active">React</a></li>
+                    <li><a href="vue.html">Vue</a></li>
+                    <li><a href="angular.html">Angular</a></li>
+                </ul>
+            </li>
+            <li><a href="../recursos.html">Recursos</a></li>
+            <li><a href="../sobre_mi.html">Sobre Mí</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="main-content">
+            <h2>React</h2>
+            <p>
+                React es una biblioteca de JavaScript desarrollada por Facebook que se utiliza para construir
+                interfaces de usuario interactivas. Es una herramienta poderosa para crear aplicaciones web modernas
+                y eficientes.
+            </p>
+            <h3>Características Principales</h3>
+            <ul>
+                <li>Componentes reutilizables que facilitan el desarrollo modular.</li>
+                <li>Virtual DOM para mejorar el rendimiento de las aplicaciones.</li>
+                <li>Compatibilidad con ecosistemas populares como Redux y Next.js.</li>
+            </ul>
+            <h3>Recursos para Aprender React</h3>
+            <ul>
+                <li><a href="https://reactjs.org/" target="_blank">Documentación Oficial de React</a></li>
+                <li><a href="https://beta.reactjs.org/" target="_blank">React Docs Beta</a> - Una nueva versión de la documentación oficial.</li>
+                <li><a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" target="_blank">React - The Complete Guide (Udemy)</a></li>
+                <li><a href="https://egghead.io/courses/the-beginner-s-guide-to-react" target="_blank">The Beginner's Guide to React (Egghead.io)</a></li>
+            </ul>
+            <h3>Proyectos para Practicar</h3>
+            <ul>
+                <li>Un sistema de gestión de tareas con funcionalidad CRUD.</li>
+                <li>Una aplicación de clima que consuma una API pública como OpenWeather.</li>
+                <li>Un blog personal con manejo de rutas dinámicas usando React Router.</li>
+            </ul>
+        </section>
+
+        <aside>
+            <section class="sidebar-content">
+                <h3>Curiosidades de Programación</h3>
+                <p>
+                    ¿Sabías que React fue lanzado inicialmente en 2013 y revolucionó la forma en que
+                    construimos aplicaciones web gracias a su enfoque basado en componentes?
+                </p>
+            </section>
+        </aside>
+    </main>
+</body>
+</html>
