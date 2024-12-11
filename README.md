@@ -55,7 +55,9 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-<img src="svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px">
+ <a href="#">
+    <img src="svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px">
+  </a> 
 </p>
 </br>
 </br>
