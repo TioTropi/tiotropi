@@ -1,7 +1,7 @@
-# Konichiwa, soy TioTropi 👋
+# Hola Buenas, soy TioTropi 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/3o7TKtdZt8fIcXP8vG/giphy.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://giphy.com/gifs/cat-kisses-hugs-MDJ9IbxxvDUQM">
 </div>
 
 ---
