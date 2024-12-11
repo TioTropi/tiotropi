@@ -1,7 +1,7 @@
 # Hola Buenas, soy TioTropi 👋
 
 <div align="center">
-<iframe src="https://giphy.com/embed/MDJ9IbxxvDUQM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kisses-hugs-MDJ9IbxxvDUQM">via GIPHY</a></p>
+<img hight="300" width="700" alt="GIF" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ3ZWU5c3p4MmYwYnMzM2U1ajJmYnkybzc0M2VzYzd3MTV5dGdhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.webp">
 </div>
 
 ---
