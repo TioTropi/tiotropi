@@ -38,30 +38,93 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
 
 ## Tecnologías y Herramientas que Uso 👨‍💻
 
-</br>
+# Tecnologías y Herramientas 🛠️
 
+## Blogging Platforms ✍️
 <p align="center">
+  <a href="#"><img src="svg/blogs/tumblr.svg" alt="Tumblr" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/blogs/rss.svg" alt="RSS" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/blogs/blog_posts.svg" alt="Blog Posts" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
+---
+
+## Developer Tech 💻
+<p align="center">
+  <a href="#"><img src="svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/frameworks/vue.svg" alt="Vue" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
+---
+
+## Lenguajes 🌐
+<p align="center">
+  <a href="#"><img src="svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
+---
+
+## Misc 🎮
+<p align="center">
+  <a href="#"><img src="svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/chrome.svg" alt="Chrome" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/gamedev.svg" alt="Game Dev" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/security.svg" alt="Security" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/vr.svg" alt="VR" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/web.svg" alt="Web" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
+---
+
+## Tools 🔧
+<p align="center">
+  <a href="#"><img src="svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/tools/powershell.svg" alt="PowerShell" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
+---
+
+## Devices 📱
+<p align="center">
+  <a href="#"><img src="svg/devices/cisco.svg" alt="Cisco" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/devices/pc.svg" alt="PC" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/devices/raspberrypi.svg" alt="Raspberry Pi" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/devices/xbox.svg" alt="Xbox" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
+---
+
+## Social y Professional 🌐
+<p align="center">
+  <a href="#"><img src="svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/social/reddit.svg" alt="Reddit" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/social/steam.svg" alt="Steam" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/social/tiktok.svg" alt="TikTok" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/social/whatsapp.svg" alt="WhatsApp" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
+---
+
+## Streaming 🎥
+<p align="center">
+  <a href="#"><img src="svg/streaming/twitch.svg" alt="Twitch" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/streaming/youtube.svg" alt="YouTube" style="vertical-align:top; margin:6px 4px"></a>
+</p>
+
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
- <a href="#">
-    <img src="svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px">
-  </a> 
-</p>
-</br>
-</br>
-</br>
+
 
 ---
 
