@@ -36,20 +36,19 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
 
 ---
 
-## Tecnologías y Herramientas que Uso 👨‍💻
+## Tecnologías y Herramientas de Interés 👨‍💻
 
-# Tecnologías y Herramientas 🛠️
 
-## Blogging Platforms ✍️
+## Plataformas de Blogging ✍️
 <p align="center">
   <a href="#"><img src="svg/blogs/tumblr.svg" alt="Tumblr" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/blogs/rss.svg" alt="RSS" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/blogs/blog_posts.svg" alt="Blog Posts" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/blogs/blog_posts.svg" alt="Publicaciones de Blog" style="vertical-align:top; margin:6px 4px"></a>
 </p>
 
 ---
 
-## Developer Tech 💻
+## Tecnologías de Desarrollo 💻
 <p align="center">
   <a href="#"><img src="svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:6px 4px"></a>
@@ -68,21 +67,21 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
 
 ---
 
-## Misc 🎮
+## Varios 🎮
 <p align="center">
-  <a href="#"><img src="svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/ai.svg" alt="Inteligencia Artificial" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/dev/misc/chrome.svg" alt="Chrome" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/gamedev.svg" alt="Game Dev" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/security.svg" alt="Security" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/vr.svg" alt="VR" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/cloud.svg" alt="Nube" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/datascience.svg" alt="Ciencia de Datos" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/gamedev.svg" alt="Desarrollo de Juegos" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/security.svg" alt="Seguridad" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="svg/dev/misc/vr.svg" alt="Realidad Virtual" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/dev/misc/web.svg" alt="Web" style="vertical-align:top; margin:6px 4px"></a>
 </p>
 
 ---
 
-## Tools 🔧
+## Herramientas 🔧
 <p align="center">
   <a href="#"><img src="svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:6px 4px"></a>
@@ -92,7 +91,7 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
 
 ---
 
-## Devices 📱
+## Dispositivos 📱
 <p align="center">
   <a href="#"><img src="svg/devices/cisco.svg" alt="Cisco" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/devices/pc.svg" alt="PC" style="vertical-align:top; margin:6px 4px"></a>
@@ -102,7 +101,7 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
 
 ---
 
-## Social y Professional 🌐
+## Redes Sociales y Profesionales 🌐
 <p align="center">
   <a href="#"><img src="svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:6px 4px"></a>
@@ -121,6 +120,7 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
   <a href="#"><img src="svg/streaming/twitch.svg" alt="Twitch" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/streaming/youtube.svg" alt="YouTube" style="vertical-align:top; margin:6px 4px"></a>
 </p>
+
 
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
