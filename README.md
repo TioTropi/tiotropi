@@ -43,7 +43,6 @@ Creo en el poder del aprendizaje continuo y la colaboración para crear solucion
 <p align="center">
   <a href="#"><img src="svg/blogs/tumblr.svg" alt="Tumblr" style="vertical-align:top; margin:6px 4px"></a>
   <a href="#"><img src="svg/blogs/rss.svg" alt="RSS" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/blogs/blog_posts.svg" alt="Publicaciones de Blog" style="vertical-align:top; margin:6px 4px"></a>
 </p>
 
 ---
