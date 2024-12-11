@@ -57,7 +57,7 @@ Si encuentras algo interesante o tienes ideas para mejorar este proyecto, siént
 ## Contacto
 Estoy abierto a nuevas oportunidades de colaboración y a recibir feedback sobre este proyecto. Puedes contactarme a través de:
 
-- **Email**: [tuemail@example.com](mailto:tuemail@example.com)
+- **Email**: [tiotropi@gmail.com](mailto:tiotropi@gmail.com)
 - **GitHub**: [github.com/TioTropi](https://github.com/TioTropi)
 - **LinkedIn**: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
 
